@@ -13,7 +13,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Frontend: React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap	Backend: Node.js, Express.js, REST APIs
-Database: MongoDB, MySQL	State Management: Redux Toolkit, Context API
-Tools: Git, GitHub, Postman, Figma	Concepts: ES6+, Async/Await, Promises, JWT Authentication, Responsive Design
-Soft Skills: Communication, Teamwork, Problem-Solving, Debugging	Languages: English (Proficient), Urdu (Native)
+Frontend: React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap	
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, MySQL	
+State Management: Redux Toolkit, Context API
+Tools: Git, GitHub, Postman, Figma	
+Soft Skills: Communication, Teamwork, Problem-Solving, Debugging	
+Languages: English (Proficient), Urdu (Native)
