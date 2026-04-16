@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SIDRA AKHTAR</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Next.js, TypeScript,MongoDB, Node.js**
-
-- 💬 Ask me about **React.js,Tailwend CSS ,Javascript ,MySql**
+- 🌱 I’m MERN Stack Developer with 1+ years of experience and strong hands-on expertise in full-stack web and mobile projects. Proficient in MongoDB, Express.js, React.js, and Node.js, with a solid foundation in JavaScript (ES6+), RESTful API development, and database design. Experienced in building responsive, scalable applications with clean code practices, JWT authentication, and Git-based workflows
 
 - 📫 How to reach me **maliksidraakhtar18@gmail.com**
 
