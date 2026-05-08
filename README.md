@@ -8,10 +8,6 @@
 Passionate about building scalable web applications, modern mobile apps, and clean user experiences using the MERN Stack.
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
 ### 👩‍💻 About Me
 
 - 💼 MERN Stack Developer with **1.5+ years of hands-on experience**
