@@ -92,12 +92,15 @@ Scalable healthcare booking platform with multi-role RBAC, Stripe payments, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SidraAkhtar18
+&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraAkhtar18
+&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraAkhtar18
+&theme=default" />
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all 3 image URLs above.
