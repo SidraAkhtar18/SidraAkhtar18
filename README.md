@@ -1,87 +1,115 @@
-<h1 align="center">Hi 👋, I'm SIDRA AKHTAR</h1>
-
-<h3 align="center">
-🚀 MERN Stack Developer | Full Stack Web & Mobile App Developer from Pakistan
-</h3>
+<h1 align="center">Hi 👋, I'm Sidra Akhtar</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Developer</h3>
 
 <p align="center">
-Passionate about building scalable web applications, modern mobile apps, and clean user experiences using the MERN Stack.
+  <a href="https://www.linkedin.com/in/sidra-akhtar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maliksidraakhtar18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
-### 👩‍💻 About Me
-
-- 💼 MERN Stack Developer with **1+ years of hands-on experience**
-- 🔥 Skilled in **MongoDB, Express.js, React.js, Node.js & React Native**
-- ⚡ Experienced in building **full-stack web & mobile applications**
-- 🎯 Strong understanding of **REST APIs, JWT Authentication, Redux & Responsive UI**
-- 🌱 Currently learning **TypeScript, Cloud Deployment & Scalable Architecture**
-- 🤝 Comfortable working in **Agile/Scrum environments**
-- 📈 Passionate about writing **clean, maintainable, and scalable code**
-- 💬 Ask me about **MERN Stack, React Native, APIs, MongoDB & Frontend Development**
-- 📫 Reach me at: **maliksidraakhtar18@gmail.com**
-- ⚡ Fun fact: **I talk to my code like it understands me... sometimes it actually listens 👀**
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 About Me
+I'm a **Full Stack / MERN Stack Developer** from Wah Cantt, Punjab, Pakistan, with 1+ year of experience building scalable, production-ready web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, and Next.js**.
 
-<p align="left">
-<a href="https://linkedin.com/in/sidraakhtar18" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="https://github.com/SidraAkhtar18" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-</p>
+- 🔭 Currently building scalable MERN applications & microservices architecture at **Veevo Tech**
+- 🌱 Currently deepening my skills in **RabbitMQ, Redis caching, and event-driven microservices** (EventHub, Pigeon, DataPulse, Elephant, Honeybee)
+- 💼 Experienced in **RESTful API development, JWT/OAuth 2.0 authentication, RBAC, and API documentation (Swagger)**
+- 🎯 Open to **Full Stack Developer / MERN Stack Developer / Backend Developer** roles
+- 📫 Reach me: **maliksidraakhtar18@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Database
+**Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-3423A6?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Microservices-FF4088?style=flat-square" />
 </p>
 
-#### 📱 Mobile Development
+**Database & Messaging**
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
-#### ☁️ Tools & Deployment
+**Tools & DevOps**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,aws" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-#### 🚜 Farm2Market
-A full-stack agricultural platform connecting farmers, buyers, and vehicle owners with:
-- Real-time order tracking
-- Hybrid payment system
-- Vehicle logistics management
-- Push notifications
-- Secure JWT authentication
+#### 🔔 [Bulletin Board — Centralized Notice Management Platform](#)
+Centralized platform for publishing product updates, announcements, and bug-fix notices across multiple apps and organizations. Built with role-based access control, OneID/OAuth 2.0 authentication, RabbitMQ-based async notifications, and Redis caching.
+`React.js` `Node.js` `Express.js` `MongoDB` `RabbitMQ` `Redis` `OAuth 2.0`
 
-#### 🏥 DoctorOnCall
-Healthcare appointment booking platform featuring:
-- Online doctor appointments
-- Secure authentication & role management
-- Stripe payment integration
-- Scalable backend architecture
+#### 🌾 [Farm2Market — Full-Stack Agricultural Marketplace](#)
+Cross-platform marketplace connecting farmers and buyers with Stripe payments, real-time order tracking, and RBAC for 4 user roles.
+`React Native` `Node.js` `Express.js` `MongoDB Atlas` `Stripe` `JWT`
+
+#### 🏥 [DoctorOnCall — Healthcare Appointment Booking System](#)
+Scalable healthcare booking platform with multi-role RBAC, Stripe payments, and Next.js SSR for high-traffic performance.
+`React.js` `Next.js` `MongoDB` `Vercel`
+
+> Replace the `(#)` links above with your live/demo/GitHub repo URLs.
 
 ---
 
-### 💡 Developer Quote
+### 📊 GitHub Stats
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i> 💻
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" />
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all 3 image URLs above.
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidra-akhtar-dev">LinkedIn</a> •
+  <a href="mailto:maliksidraakhtar18@gmail.com">Email</a> •
+  <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
+
+<p align="center"><i>Full Stack Developer | MERN Stack Developer | React.js • Node.js • MongoDB • Express.js Developer based in Pakistan</i></p>
