@@ -73,46 +73,38 @@ I'm a **Full Stack / MERN Stack Developer** from Islamabad, Pakistan, with 1+ ye
 
 ### 📌 Featured Projects
 
-#### 🔔 [Bulletin Board — Centralized Notice Management Platform](#)
+#### 🔔 [Bulletin Board — Centralized Notice Management Platform]
 Centralized platform for publishing product updates, announcements, and bug-fix notices across multiple apps and organizations. Built with role-based access control, OneID/OAuth 2.0 authentication, RabbitMQ-based async notifications, and Redis caching.
 `React.js` `Node.js` `Express.js` `MongoDB` `RabbitMQ` `Redis` `OAuth 2.0`
 
-#### 🌾 [Farm2Market — Full-Stack Agricultural Marketplace](#)
+#### 🌾 [Farm2Market — Full-Stack Agricultural Marketplace]
 Cross-platform marketplace connecting farmers and buyers with Stripe payments, real-time order tracking, and RBAC for 4 user roles.
 `React Native` `Node.js` `Express.js` `MongoDB Atlas` `Stripe` `JWT`
 
-#### 🏥 [DoctorOnCall — Healthcare Appointment Booking System](#)
+#### 🏥 [DoctorOnCall — Healthcare Appointment Booking System]
 Scalable healthcare booking platform with multi-role RBAC, Stripe payments, and Next.js SSR for high-traffic performance.
 `React.js` `Next.js` `MongoDB` `Vercel`
-
-> Replace the `(#)` links above with your live/demo/GitHub repo URLs.
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SidraAkhtar18
-&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraAkhtar18
-&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SidraAkhtar18&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraAkhtar18&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraAkhtar18
-&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraAkhtar18&theme=default" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all 3 image URLs above.
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sidra-akhtar-dev">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sidraakhtar18/">LinkedIn</a> •
   <a href="mailto:maliksidraakhtar18@gmail.com">Email</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a>
+  <a href="https://mernstackdevelopersidra.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center"><i>Full Stack Developer | MERN Stack Developer | React.js • Node.js • MongoDB • Express.js Developer based in Pakistan</i></p>
