@@ -10,7 +10,7 @@ Passionate about building scalable web applications, modern mobile apps, and cle
 
 ### 👩‍💻 About Me
 
-- 💼 MERN Stack Developer with **1.5+ years of hands-on experience**
+- 💼 MERN Stack Developer with **1+ years of hands-on experience**
 - 🔥 Skilled in **MongoDB, Express.js, React.js, Node.js & React Native**
 - ⚡ Experienced in building **full-stack web & mobile applications**
 - 🎯 Strong understanding of **REST APIs, JWT Authentication, Redux & Responsive UI**
