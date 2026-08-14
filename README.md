@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sidra-akhtar-dev">
+  <a href="https://www.linkedin.com/in/sidraakhtar18/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maliksidraakhtar18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://mernstackdevelopersidra.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Full Stack / MERN Stack Developer** from Wah Cantt, Punjab, Pakistan, with 1+ year of experience building scalable, production-ready web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, and Next.js**.
+I'm a **Full Stack / MERN Stack Developer** from Islamabad, Pakistan, with 1+ year of experience building scalable, production-ready web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, and Next.js**.
 
 - 🔭 Currently building scalable MERN applications & microservices architecture at **Veevo Tech**
 - 🌱 Currently deepening my skills in **RabbitMQ, Redis caching, and event-driven microservices** (EventHub, Pigeon, DataPulse, Elephant, Honeybee)
