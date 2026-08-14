@@ -85,13 +85,6 @@ Cross-platform marketplace connecting farmers and buyers with Stripe payments, r
 Scalable healthcare booking platform with multi-role RBAC, Stripe payments, and Next.js SSR for high-traffic performance.
 `React.js` `Next.js` `MongoDB` `Vercel`
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SidraAkhtar18&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidraAkhtar18&layout=compact&theme=default" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidraAkhtar18&theme=default" />
 </p>
