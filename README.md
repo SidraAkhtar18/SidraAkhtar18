@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidra Akhtar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Developer</h3>
+<h3 align="center">Full Stack Developer(Mern) | AI Web Application Developer</h3>
+<h3 align="center">Open to Remote Roles</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sidraakhtar18/">
