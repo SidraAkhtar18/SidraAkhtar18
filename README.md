@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidra Akhtar</h1>
-<h3 align="center">Full Stack Developer(Mern) | AI Web Application Developer</h3>
+<h3 align="center">Full Stack AI Developer(Mern) | AI Web Application Developer</h3>
 <h3 align="center">Open to Remote Roles</h3>
 
 <p align="center">
